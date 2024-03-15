@@ -49,11 +49,6 @@ DB_DATABASE=your_database_name
 ```bash
 python main.py
 ```
-- API Endpoints
-```javascript
-http://localhost:5000/scrape-books
-```
-This will fetch book data from URL and store it in database
 
 ## Contributing
 
